@@ -23,7 +23,37 @@
 > Answer : <br>
 > The Fetch API is a modern interface that allows you to make HTTP requests to servers from web browsers.
 ![images](explore-api/images/json-fetch-api.JPG)
->sintex<pre>fetch('https://APILink.xyz')<br/>.then(res => res.json())<br/>.then(data => console.log(data))
+>Syntax<pre>fetch('https://APILink.xyz')<br/>.then(res => res.json())<br/>.then(data => console.log(data))
 </pre>
 
+### 7. CRUD and REST API Methods :
+>![images](explore-api/images/CRUD.JPG)
+
+### 8. How GET method works?
+>GET method is used to request data from a specified resource.
+> ![images](explore-api/images/GET.JPG)
+> ![images](explore-api/images/GET2.JPG)
+
+### 9. How POST method works?
+>POST method is used to send data to a server to create a resource.
+> ![images](explore-api/images/POST.JPG)
+> ![images](explore-api/images/POST2.JPG)
+
+### 10. How DELETE method works?
+>The DELETE method deletes the specified resource.
+> ![images](explore-api/images/DELETE.JPG)
+> ![images](explore-api/images/DELETE1.JPG)
+> ![images](explore-api/images/DELETE2.JPG)
+
+### 11. How PATCH method works?
+>PATCH is used to send data to a server to update a resource.
+>![images](explore-api/images/patch.JPG)
+>![images](explore-api/images/patch1.JPG)
+>![images](explore-api/images/patch2.JPG)
+
+### 12. PUT vs POST vs PATCH !
+>![images](explore-api/images/POSTvsPUTvsPATCH.JPG)
+
+### 13. HTTP Status Code :
+>![images](explore-api/images/httpStatusCode.JPG)
 ### 7. GET এবং POST এর মধ্যে পার্থক্য ?
