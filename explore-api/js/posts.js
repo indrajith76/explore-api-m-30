@@ -16,7 +16,6 @@ function displayPosts(posts) {
         `
         postsContainer.appendChild(Postdiv);
     }
-    console.log(postsContainer);
 }
 
 loadPosts()

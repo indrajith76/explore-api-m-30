@@ -1,5 +1,5 @@
 function loadUsers2() {
-    fetch('https://jsonplaceholder.typicode.com/users')
+    fetch('https://jsonplaceholder.typicode.com/usersxx')
     .then(res => res.json())
     .then(data => displayUsers2(data))
 }
