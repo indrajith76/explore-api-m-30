@@ -11,5 +11,5 @@ function loadUsers(){
 }
 
 function displayUsers(data){
-    console.log(data.map(user => user.username));
+    console.log(data.map(user => user));
 }
